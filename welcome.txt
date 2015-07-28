@@ -1,0 +1,23 @@
+
+
+
+                                      D X - C l u s t e r                                
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                       by: Andreas Peters (DC6AP) www.andreas-peters.net      
+
+
+       Help:
+                b - Select Band in numeric
+                c - Clear all filters
+
+
+
+
+
+
+
+
+
+
+
