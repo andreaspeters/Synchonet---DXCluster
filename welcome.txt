@@ -9,10 +9,7 @@
 
                        by: Andreas Peters (DC6AP) www.andreas-peters.net 
 
-					        This DOOR is optimized for Packet Radio     
-
-
-
+                           This DOOR is optimized for Packet Radio     
 
 
 
@@ -20,5 +17,8 @@
        Help:
                 b - Select Band in numeric
                 c - Clear all filters
+                q - Quit
+
+
 
 
