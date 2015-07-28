@@ -51,7 +51,7 @@ var CLDX = Class({
 
 	update: function() {
 		mswait(250);
-		var file = new File("../xtrn/wiki/json.txt");
+		var file = new File("../xtrn/dxcluster/json.txt");
 		file.open("r");
 		try {
 			this.json =  JSON.parse(file.read());
@@ -71,7 +71,7 @@ var CLDX = Class({
 	},
 
 	welcome: function() {
-		var file = new File("../xtrn/wiki/welcome.txt");
+		var file = new File("../xtrn/dxcluster/welcome.txt");
 		file.open("r");
 		console.putmsg(file.read());
 		file.close();	

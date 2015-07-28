@@ -38,7 +38,7 @@ Create a "External Command"
 
 ```
 cronjob -e
-*/1 * * * * /home/andreas/development/sbbs/sbbs/xtrn/dxcluster/spot.sh
+*/1 * * * * /sbbs/xtrn/dxcluster/spot.sh
 ```
 
 
