@@ -51,13 +51,11 @@ var CLDX = Class({
 
 	update: function() {
 		mswait(250);
-		var file = new File("../xtrn/dxcluster/json.txt");
-		file.open("r");
+		var content = new HTTPRequest().Get("http://www.dxcluster.co.uk/api/all");
 		try {
-			this.json =  JSON.parse(file.read());
+			this.json =  JSON.parse(content);
 		} catch(e) {
 		}
-		file.close();	
 
    		switch(this.key) {
 			case "b":
