@@ -24,6 +24,7 @@ load("frame.js");
 load("tree.js");
 load("scrollbar.js");
 load("json-client.js");
+load("http.js");
 
 load("class.js");
 load("CLdx.js");
