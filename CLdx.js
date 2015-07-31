@@ -67,6 +67,9 @@ var CLDX = Class({
 				console.putmsg("Clear");
 				this.band = "";
 				break;
+			case "h":
+				this.welcome();
+				break;
 		}
 	},
 
